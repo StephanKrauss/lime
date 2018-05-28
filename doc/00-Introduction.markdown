@@ -97,7 +97,11 @@ On both:
 You can then initialize a new project to use Lime. To do so, open the project
 directory in your terminal and type the following command:
 
+#### fehlgeschlagen
     $ lime --init
+    
+#### erfolgreich
+    $ C:/Windows/System32/lime.bat --init
     
 > **NOTE**
 > The examples in the following files assume that Lime is installed locally.
